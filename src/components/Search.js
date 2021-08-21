@@ -22,7 +22,7 @@ const Search = () => {
           </ErrorWrapper>
         )}
         <form onSubmit={handleSubmit}>
-          <div className="fomr-control">
+          <div className="form-control">
             <MdSearch />
             <input
               type="text"
